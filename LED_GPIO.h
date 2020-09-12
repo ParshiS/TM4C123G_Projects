@@ -20,6 +20,7 @@
 #define DigEn	0x0000051C // Digital Enable Register Offset
 #define PullUpReg	0x00000510 // Pull Up Register Offset
 #define AFSEL	0x00000420 // Alternate Function Select Register Offset
+#define AFSEL	0x00000528 // Analog Mode Select
 #define LockReg	0x00000520 // Lock, Unlock Register Offset
 #define Drive2mA	0x00000500 // Drive 2mA to LED Register Offset
 #define Drive4mA	0x00000504 // Drive 4mA to LED Register Offset
